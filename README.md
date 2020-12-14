@@ -4,4 +4,5 @@ Here is an unbeatable Tic Tac Toe AI. This was a great learning excercise. To ru
 
 I've also uploaded the script to an online python compiler. The link is: https://onlinegdb.com/rkddarEnv simply run the code by clicking run on the top bar and input your moves.
 
+Here is a key for the positions and their correlated numbers:
 ![myimage-alt-tag](http://inventwithpython.com/chapter10_files/image003.jpg)
